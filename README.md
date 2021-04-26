@@ -31,7 +31,7 @@
 
 # Usage
 
-   Deployed app https://git.heroku.com/pfd-onoffbudget.git
+   Deployed app https://pfd-onoffbudget.herokuapp.com/
    Please feel free to use this to log your budget!
 
 # License
